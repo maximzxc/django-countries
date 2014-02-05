@@ -959,7 +959,7 @@ msgstr "Объединенные Арабские Эмираты"
 
 #: data.py:247
 msgid "United Kingdom"
-msgstr "Соединенное Королевство"
+msgstr "Англия"
 
 #: data.py:248
 msgid "United States"
